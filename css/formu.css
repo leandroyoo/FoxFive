@@ -1,0 +1,670 @@
+body {
+    font-family: sans-serif;
+  
+}
+
+a {text-decoration: none;}
+
+
+.cabecalho{
+  display: flex;
+  flex-direction:row;
+}
+
+.logotipo{
+  width: 19%;
+
+  background-color: rgb(0, 0, 0);
+}
+
+
+.pfpaginainicio{
+border-radius: 50%;
+margin-left: 200px;
+
+
+}
+.corpo1, h1{
+text-align:center;
+}
+
+
+
+.nave {
+  background:rgb(3, 0, 0);
+  font-size: 0;
+  width: 82%;
+  display: flex;
+    
+}
+
+
+
+.container {
+  margin: auto;
+  width: 800px;
+}
+
+.corpo14{
+  height: 600px;
+  width: 100%;
+  background:url(../img/fundos/corporativo.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+
+.arrumacao{
+display: flex;
+flex-direction: row;
+}
+
+.hist1{
+background-color: transparent;
+}
+
+.hist2{
+background-color: transparent;
+}
+
+
+.hist3{
+background-color: transparent;
+}
+
+
+.ict{
+width: 10%;
+height: 10%;
+}
+
+
+
+.div80{
+margin-top: 50px;
+}
+
+.div80, ul , li{
+margin-top: 30px;
+list-style: none;
+
+}
+
+
+
+
+
+
+
+
+.caixaperfils{
+display: flex;
+flex-direction: row;
+text-align: center;
+}
+
+.ic{
+width: 98%;
+border-radius: 20px;
+padding: 2px;
+}
+.perfil0{
+
+background-color: #00b637;
+width: 19%;
+}
+
+.perfil2{
+background-color: #b61b00;
+width: 19%;
+}
+
+.perfil3{
+background-color: #007bb6;
+width: 19%;
+}
+
+.perfil4{
+background-color: #b6009e;
+width: 19%;
+}
+
+.perfil5{
+background-color: #fff01c;
+width: 19%;
+}
+
+
+
+
+
+
+.corpo1{
+  
+  width: 100%;
+  margin-bottom: 10%;
+
+
+}
+
+
+
+
+.caixaimg1{
+width: 40%;
+background-color: transparent;
+}
+
+.caixatexto14{
+width:49%;
+}
+
+#img_redonda{
+height: 220px;
+width: 50%;
+margin-left: 15%;
+margin-top: 15%;
+}
+
+.hist1{
+width: 35%;
+height: 50%;
+margin-left: 5%;
+}
+
+#img_valores{
+height: 220px;
+width: 20%;
+border-radius: 50%;
+margin-top: 15%;
+}
+
+.his1{
+width: 49%;
+height: 50%;
+font-size: 18px;
+  text-align: justify;
+margin-right: 5%;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.hist2{
+width: 35%;
+height: 50%;
+margin-left: 5%;
+}
+
+#img_filosofia{
+height: 220px;
+width: 30%;
+border-radius: 50%;
+margin-left: 15%;
+margin-top: 15%;
+}
+
+.his2{
+width: 49%;
+height: 50%;
+font-size: 18px;
+  text-align: justify;
+margin-right: 5%;
+font-family: 'Courier New', Courier, monospace;
+margin-top: 5%;
+}
+
+.hist3{
+width: 40%;
+}
+#img_missao{
+height: 220px;
+width: 30%;
+border-radius: 50%;
+margin-left: 15%;
+margin-top: 15%;
+}
+
+.his3{
+width: 49%;
+height: 50%;
+font-size: 18px;
+  text-align: justify;
+margin-right: 5%;
+font-family: 'Courier New', Courier, monospace;
+margin-top: 5%;
+}
+
+.pfx2{
+
+
+  align-items: center;
+  margin-left: 25px;
+  border-radius: 50%;
+  margin-top: 100px;
+
+
+}
+
+.pfx41{
+align-items: center;
+margin-left: 615px;
+border-radius: 50%;
+margin-top: 100px;
+}
+
+.oioi{
+align-items: center;
+margin-left: 610px;
+border-radius: 50%;
+margin-top: 20px;
+}
+
+
+
+
+.pf10{
+width: 48%;
+background-color: #00aced;
+}
+
+.pf11{
+width: 48%;
+}
+
+
+
+.r2{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+background-color: rgba(243, 241, 241, 0.692);
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.r1{
+
+  font-size: 18px;
+  text-align: justify;
+margin-right: 5%;
+
+}
+
+.corpo2{
+display: flex;
+flex-direction: row;
+font-family: 'Courier New', Courier, monospace;
+  height: 40%;
+  width: 100%;
+padding-bottom: 10px;
+}
+
+
+
+
+.prod{
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+margin-bottom: 5%;
+background-color: rgba(243, 241, 241, 0.692);
+padding-bottom: 50px;
+padding-top: 50px;
+}
+
+
+
+
+.corpo3{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+
+.caixa1cp3{
+display: flex;
+overflow-x: auto;
+
+}
+
+.caixa1cp3-wrapper{
+width: 100vw;
+}
+#img3_redonda{
+flex: none;
+height: 17%;
+width: 17%;
+}
+
+
+
+
+
+#img2_redonda{
+flex: none;
+height: 17%;
+width: 17%;
+
+}
+
+
+
+
+.corpo4{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+#img4_redonda{
+flex: none;
+height: 17%;
+width: 17%;
+}
+
+
+.caixa1cp4{
+display: flex;
+overflow-x: auto;
+
+}
+.caixa1cp4-wrapper{
+width: 100vw;
+}
+
+.corpo5{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+
+.caixa1cp5{
+display: flex;
+overflow-x: auto;
+}
+
+.caixa1cp5-wrapper{
+width: 100vw;
+}
+
+.textocp5{
+font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  list-style: none;
+}
+
+
+
+
+
+
+form{
+background-color:rgba(23, 22, 22, 0.184);
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+margin-bottom: 10%;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+
+
+
+.nome{
+
+margin-left: 3%;
+}
+
+.email2{
+margin-right: 5%; 
+}
+
+.senha2{
+margin-left: 1%;
+}
+
+.senha4{
+margin-right: 2%;
+}
+
+.confirmar{
+background-color: #003db6;
+margin-left: 22%;
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.limpar{
+    background-color: yellow;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.confirmar2{
+  background-color: #003db6;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+  
+.limpar2{
+      background-color: rgb(172, 22, 22);
+      font-size: 15px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.nomef{
+  margin-right: 3%;
+}
+
+.msg{
+  width: 70%;
+  height: 100px;
+}
+
+
+
+
+
+
+.entrar1{
+  margin-right: 3%;
+  background-color: rgba(23, 22, 22, 0.184);
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.nave > ul > li {
+  display: inline-block;
+    font-size: 14px;
+    padding: 0 15px;
+    position: relative;
+}
+
+.nave > ul > li > a {
+  color: #fff;
+    display: block;
+    padding: 20px 0;
+    border-bottom: 3px solid transparent;
+    transition: all .3s ease;
+}
+.nave > ul > li:hover > a {
+  color: #444; 
+    border-bottom: 3px solid #444;
+}
+
+
+
+.site-footer
+{
+background-color:#26272b;
+padding:45px 0 20px;
+font-size:15px;
+line-height:24px;
+color:#737373;
+}
+.site-footer hr
+{
+border-top-color:#bbb;
+opacity:0.5
+}
+.site-footer hr.small
+{
+margin:20px 0
+}
+.site-footer h6
+{
+color:#fff;
+font-size:16px;
+text-transform:uppercase;
+margin-top:5px;
+letter-spacing:2px
+}
+.site-footer a
+{
+color:#737373;
+}
+.site-footer a:hover
+{
+color:#3366cc;
+text-decoration:none;
+}
+.footer-links
+{
+padding-left:0;
+list-style:none
+}
+.footer-links li
+{
+display:block
+}
+.footer-links a
+{
+color:#737373
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+color:#3366cc;
+text-decoration:none;
+}
+.footer-links.inline li
+{
+display:inline-block
+}
+.site-footer .social-icons
+{
+text-align:right
+}
+.site-footer .social-icons a
+{
+width:40px;
+height:40px;
+line-height:40px;
+margin-left:6px;
+margin-right:0;
+border-radius:100%;
+background-color:#33353d
+}
+.copyright-text
+{
+margin:0
+}
+@media (max-width:991px)
+{
+.site-footer [class^=col-]
+{
+  margin-bottom:30px
+}
+}
+@media (max-width:767px)
+{
+.site-footer
+{
+  padding-bottom:0
+}
+.site-footer .copyright-text,.site-footer .social-icons
+{
+  text-align:center
+}
+}
+.social-icons
+{
+padding-left:0;
+margin-bottom:0;
+list-style:none
+}
+.social-icons li
+{
+display:inline-block;
+margin-bottom:4px
+}
+.social-icons li.title
+{
+margin-right:15px;
+text-transform:uppercase;
+color:#96a2b2;
+font-weight:700;
+font-size:13px
+}
+.social-icons a{
+background-color:#eceeef;
+color:#818a91;
+font-size:16px;
+display:inline-block;
+line-height:44px;
+width:44px;
+height:44px;
+text-align:center;
+margin-right:8px;
+border-radius:100%;
+-webkit-transition:all .2s linear;
+-o-transition:all .2s linear;
+transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+color:#fff;
+background-color:#29aafe
+}
+.social-icons.size-sm a
+{
+line-height:34px;
+height:34px;
+width:34px;
+font-size:14px
+}
+.social-icons a.facebook:hover
+{
+background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+background-color:#00aced
+}
+.social-icons a.linkedin:hover
+{
+background-color:#007bb6
+}
+.social-icons a.dribbble:hover
+{
+background-color:#ea4c89
+}
+@media (max-width:767px)
+{
+.social-icons li.title
+{
+  display:block;
+  margin-right:0;
+  font-weight:600
+}
+}
+
+
